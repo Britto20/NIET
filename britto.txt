@@ -1,3 +1,17 @@
-britto 
-anand
-new file 
+git clone https://github.com/Britto20/NIET.git
+
+new folder in any drive 
+
+visual studio folder mapping
+
+cd foldername
+
+git add filename.txt
+
+git add .
+
+git commit -m "first commit"
+
+git push origin main
+
+git pull origin main
